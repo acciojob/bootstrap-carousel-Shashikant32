@@ -1,1 +1,5 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+ .carousel-inner img {
+      width: 100%; 
+      height: 500px; 
+    }
